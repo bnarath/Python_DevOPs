@@ -1,3 +1,5 @@
+import numpy as np
+
 def levenshtein_dist(str1, str2):
     '''
     Input: Two strings
